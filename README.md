@@ -1,4 +1,4 @@
-# potential-sniffle
+# python txt loader
 you need Python tkinter and tkinterdnd2 so just pip install those
 
 in order to use make a text file named anything you want
