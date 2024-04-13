@@ -1,12 +1,11 @@
 # python txt loader
 you need Python tkinter and tkinterdnd2 so just pip install those.
 
-in order to use make a text file named anything you want.
-code structure is: (ignore dashes)
-------
-c: [r,g,b]
-text: "text"
-p: padding value
-------
-then when you run the file a grey box will appear
-drag the text file into the box
+make a text file named anything
+structure it with 3 lines
+line 1: c: [r,g,b]
+line 2: text: "text"
+line 3: p: padding value
+
+open the file, and drag the txt into the gray box
+if it doesnt work check the formatting
